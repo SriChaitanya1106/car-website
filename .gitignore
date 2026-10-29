@@ -1,0 +1,9 @@
+# OS and Environment
+.DS_Store
+Thumbs.db
+*.log
+temp_test/
+
+# Archive and source video files
+*.zip
+*.mp4
